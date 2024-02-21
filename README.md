@@ -29,8 +29,8 @@ Total Victims -> Total number of individuals injured or killed related to this r
 ## Link to the dataset - https://www.kaggle.com/datasets/tcashion/icbc-vehicle-crash-dataset <br>
 
 # DASHBOARD_1
-![Alt Text](relative_path_to_your_image_file)
+![dash1](dash1.png)
 
 # DASHBOARD_2
-![Alt Text](relative_path_to_your_image_file)
+![dash2](dsh2.png)
 
