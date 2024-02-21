@@ -32,7 +32,8 @@ Total Victims -> Total number of individuals injured or killed related to this r
 ![dash1](dash1.png)
 
 # DASHBOARD_2
-![dash2](dsh2.png)
+![dash1](d2.png)
+
 
 
 # Insights
