@@ -34,3 +34,18 @@ Total Victims -> Total number of individuals injured or killed related to this r
 # DASHBOARD_2
 ![dash2](dsh2.png)
 
+# Insights
+## 1) LOWER MAINLAND has the maximum number of crashes.<br>
+## 2) Most crashes were on MID BLOCK compared to Intersection.
+## 3) SURREY had the maximum crashes.
+## 4)In 22% of cases of accidents, casualties occurred.
+## 5) 4.69% of crashes involve Heavy vehicles.
+## 6) 4.96% of crashes involve Animals.
+## 7) 1.10% of crashes involve pedestrians.
+## 8) There are average 17423 accidents per month
+
+
+
+
+
+
