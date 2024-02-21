@@ -32,7 +32,7 @@ Total Victims -> Total number of individuals injured or killed related to this r
 ![dash1](dash1.png)
 
 # DASHBOARD_2
-![dash2](dsh2.png)
+
 
 # Insights
 ## 1) LOWER MAINLAND has the maximum number of crashes.<br>
